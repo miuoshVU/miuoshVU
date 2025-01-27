@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miłosz Włoch
 =============================
 
-Data Science Master's Student 
+Data Engineer 
 -----------------------------  
 
-I have graduated from my master's degree in Data Science in AGH University of Science and Technology in July 2023. I am passionate about Data Science related things, Frontend Development and Mobile Development for iOS.  
+I have graduated from my master's degree in Data Science in AGH University of Science and Technology in July 2023. I am passionate about Data Science related things and Web Development.  
 
-* 🌍  I'm based in Istanbul, Türkiye 🇹🇷
+* 🌍  I'm based in Krakow, Poland
 * ✉️  You can contact me at [miloszwloch1@gmail.com](mailto:miloszwloch1@gmail.com)
-* 🚀  I'm currently working on [Chinese-English dictionary mobile app with handwritten Chinese characters real-time recognition functionality]
 * 🤝  I'm open to collaborating on regarding my interests' projects 
 
 ### Skills  
